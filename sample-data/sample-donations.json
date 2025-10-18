@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Excess Wedding Decorations",
+    "description": "Beautiful wedding decorations from our recent event. All items are in excellent condition and ready for reuse.",
+    "category": "decor",
+    "quantity": 15,
+    "images": ["donation1.jpg", "donation2.jpg"],
+    "address": "123 Eco Street, San Francisco, CA 94102",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.4194, 37.7749]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "available",
+    "expiryDate": "2024-02-15T23:59:59.000Z",
+    "pickupInstructions": "Available for pickup Monday-Friday 9AM-5PM. Please call ahead to confirm availability.",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "title": "Leftover Organic Table Linens",
+    "description": "High-quality organic cotton table linens from a corporate event. Various colors available, all professionally cleaned.",
+    "category": "attire",
+    "quantity": 50,
+    "images": ["donation3.jpg", "donation4.jpg"],
+    "address": "456 Green Avenue, Los Angeles, CA 90210",
+    "location": {
+      "type": "Point",
+      "coordinates": [-118.2437, 34.0522]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "requested",
+    "requestedBy": "68cf087fca6559f1d18291e7",
+    "requestedAt": "2024-01-18T14:20:00.000Z",
+    "expiryDate": "2024-02-20T23:59:59.000Z",
+    "pickupInstructions": "Contact us to schedule pickup. Available weekdays 10AM-4PM.",
+    "createdAt": "2024-01-10T09:15:00.000Z",
+    "updatedAt": "2024-01-18T14:20:00.000Z"
+  },
+  {
+    "title": "Seasonal Flower Arrangements",
+    "description": "Fresh flower arrangements from a garden party. Perfect for community events or smaller gatherings.",
+    "category": "flowers",
+    "quantity": 20,
+    "images": ["donation5.jpg", "donation6.jpg"],
+    "address": "789 Nature Lane, Portland, OR 97201",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.6765, 45.5152]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "picked_up",
+    "requestedBy": "68cf087fca6559f1d18291e7",
+    "requestedAt": "2024-01-16T11:30:00.000Z",
+    "confirmedAt": "2024-01-17T09:15:00.000Z",
+    "pickedUpAt": "2024-01-20T14:00:00.000Z",
+    "expiryDate": "2024-01-25T23:59:59.000Z",
+    "pickupInstructions": "Confirmed pickup for January 20th at 2PM. Please bring containers for transport.",
+    "createdAt": "2024-01-08T11:45:00.000Z",
+    "updatedAt": "2024-01-17T09:15:00.000Z"
+  },
+  {
+    "title": "LED String Lights",
+    "description": "Energy-efficient LED string lights from outdoor event. All tested and working perfectly.",
+    "category": "lighting",
+    "quantity": 30,
+    "images": ["donation7.jpg", "donation8.jpg"],
+    "address": "321 Solar Street, Seattle, WA 98101",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.3321, 47.6062]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "completed",
+    "requestedBy": "68cf087fca6559f1d18291e7",
+    "requestedAt": "2024-01-12T16:45:00.000Z",
+    "confirmedAt": "2024-01-13T10:30:00.000Z",
+    "pickedUpAt": "2024-01-15T14:20:00.000Z",
+    "completedAt": "2024-01-15T16:30:00.000Z",
+    "impactNotes": "Successfully used for community garden lighting project. Great impact on local sustainability efforts.",
+    "expiryDate": "2024-02-10T23:59:59.000Z",
+    "pickupInstructions": "Completed - items successfully donated and used.",
+    "createdAt": "2024-01-12T08:20:00.000Z",
+    "updatedAt": "2024-01-15T14:20:00.000Z"
+  },
+  {
+    "title": "Plant-Based Catering Leftovers",
+    "description": "Fresh, organic plant-based food from corporate event. All items properly stored and safe for consumption.",
+    "category": "food",
+    "quantity": 100,
+    "images": ["donation9.jpg", "donation10.jpg"],
+    "address": "654 Organic Way, Austin, TX 78701",
+    "location": {
+      "type": "Point",
+      "coordinates": [-97.7431, 30.2672]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "available",
+    "expiryDate": "2024-01-30T23:59:59.000Z",
+    "pickupInstructions": "Must be picked up within 24 hours. Contact us immediately for urgent pickup.",
+    "createdAt": "2024-01-14T12:00:00.000Z",
+    "updatedAt": "2024-01-14T12:00:00.000Z"
+  },
+  {
+    "title": "Bamboo Dinnerware Collection",
+    "description": "Complete set of bamboo dinnerware from eco-friendly wedding. All items are biodegradable and in perfect condition.",
+    "category": "decor",
+    "quantity": 75,
+    "images": ["donation11.jpg", "donation12.jpg"],
+    "address": "123 Eco Street, San Francisco, CA 94102",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.4194, 37.7749]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "available",
+    "expiryDate": "2024-02-25T23:59:59.000Z",
+    "pickupInstructions": "Available for pickup any weekday. Please call to schedule.",
+    "createdAt": "2024-01-16T14:30:00.000Z",
+    "updatedAt": "2024-01-16T14:30:00.000Z"
+  },
+  {
+    "title": "Recycled Glass Vases",
+    "description": "Unique vases made from recycled glass. Perfect for flower arrangements or decorative purposes.",
+    "category": "decor",
+    "quantity": 25,
+    "images": ["donation13.jpg", "donation14.jpg"],
+    "address": "456 Green Avenue, Los Angeles, CA 90210",
+    "location": {
+      "type": "Point",
+      "coordinates": [-118.2437, 34.0522]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "requested",
+    "requestedBy": "68cf087fca6559f1d18291e7",
+    "requestedAt": "2024-01-19T13:45:00.000Z",
+    "expiryDate": "2024-02-18T23:59:59.000Z",
+    "pickupInstructions": "Pending confirmation. Will contact you within 24 hours.",
+    "createdAt": "2024-01-11T16:45:00.000Z",
+    "updatedAt": "2024-01-19T13:45:00.000Z"
+  },
+  {
+    "title": "Hemp Table Runners",
+    "description": "Sustainable hemp table runners from rustic wedding. Various lengths and natural colors available.",
+    "category": "attire",
+    "quantity": 20,
+    "images": ["donation15.jpg", "donation16.jpg"],
+    "address": "789 Nature Lane, Portland, OR 97201",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.6765, 45.5152]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "available",
+    "expiryDate": "2024-02-28T23:59:59.000Z",
+    "pickupInstructions": "Available for pickup. Please bring your own bags for transport.",
+    "createdAt": "2024-01-13T13:20:00.000Z",
+    "updatedAt": "2024-01-13T13:20:00.000Z"
+  },
+  {
+    "title": "Solar-Powered Lanterns",
+    "description": "Charming solar-powered lanterns from outdoor event. All fully functional and weather-resistant.",
+    "category": "lighting",
+    "quantity": 15,
+    "images": ["donation17.jpg", "donation18.jpg"],
+    "address": "321 Solar Street, Seattle, WA 98101",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.3321, 47.6062]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "completed",
+    "requestedBy": "68cf087fca6559f1d18291e7",
+    "requestedAt": "2024-01-17T15:30:00.000Z",
+    "confirmedAt": "2024-01-18T08:45:00.000Z",
+    "pickedUpAt": "2024-01-20T11:15:00.000Z",
+    "completedAt": "2024-01-20T13:30:00.000Z",
+    "impactNotes": "Used for community night market lighting. Great success and positive feedback from organizers.",
+    "expiryDate": "2024-02-15T23:59:59.000Z",
+    "pickupInstructions": "Completed - successfully donated and implemented.",
+    "createdAt": "2024-01-17T10:15:00.000Z",
+    "updatedAt": "2024-01-20T11:15:00.000Z"
+  },
+  {
+    "title": "Wildflower Seed Packets",
+    "description": "Extra wildflower seed packets from wedding favors. Perfect for community gardens or educational programs.",
+    "category": "other",
+    "quantity": 200,
+    "images": ["donation19.jpg", "donation20.jpg"],
+    "address": "654 Organic Way, Austin, TX 78701",
+    "location": {
+      "type": "Point",
+      "coordinates": [-97.7431, 30.2672]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "status": "available",
+    "expiryDate": "2024-03-15T23:59:59.000Z",
+    "pickupInstructions": "Available for immediate pickup. Seeds are still viable and ready for planting.",
+    "createdAt": "2024-01-19T12:30:00.000Z",
+    "updatedAt": "2024-01-19T12:30:00.000Z"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Eco-Friendly Wedding Centerpieces",
+    "description": "Beautiful handcrafted centerpieces made from recycled materials and sustainable wood. Perfect for eco-conscious weddings.",
+    "category": "decor",
+    "price": 45.99,
+    "quantity": 25,
+    "images": ["centerpiece1.jpg", "centerpiece2.jpg"],
+    "address": "123 Eco Street, San Francisco, CA 94102",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.4194, 37.7749]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-20T14:45:00.000Z"
+  },
+  {
+    "name": "Organic Cotton Table Linens",
+    "description": "Premium organic cotton tablecloths and napkins in various colors. Chemical-free and sustainably sourced.",
+    "category": "attire",
+    "price": 12.50,
+    "quantity": 100,
+    "images": ["linens1.jpg", "linens2.jpg"],
+    "address": "456 Green Avenue, Los Angeles, CA 90210",
+    "location": {
+      "type": "Point",
+      "coordinates": [-118.2437, 34.0522]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-10T09:15:00.000Z",
+    "updatedAt": "2024-01-18T16:20:00.000Z"
+  },
+  {
+    "name": "Seasonal Flower Arrangements",
+    "description": "Fresh, locally-sourced seasonal flowers arranged in biodegradable containers. Perfect for any event.",
+    "category": "flowers",
+    "price": 35.00,
+    "quantity": 50,
+    "images": ["flowers1.jpg", "flowers2.jpg"],
+    "address": "789 Nature Lane, Portland, OR 97201",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.6765, 45.5152]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-08T11:45:00.000Z",
+    "updatedAt": "2024-01-16T13:30:00.000Z"
+  },
+  {
+    "name": "LED String Lights",
+    "description": "Energy-efficient LED string lights perfect for outdoor events. Solar-powered options available.",
+    "category": "lighting",
+    "price": 28.99,
+    "quantity": 75,
+    "images": ["lights1.jpg", "lights2.jpg"],
+    "address": "321 Solar Street, Seattle, WA 98101",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.3321, 47.6062]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-12T08:20:00.000Z",
+    "updatedAt": "2024-01-19T15:10:00.000Z"
+  },
+  {
+    "name": "Plant-Based Catering Menu",
+    "description": "Delicious plant-based catering options for events. All ingredients are locally sourced and organic.",
+    "category": "food",
+    "price": 15.99,
+    "quantity": 200,
+    "images": ["catering1.jpg", "catering2.jpg"],
+    "address": "654 Organic Way, Austin, TX 78701",
+    "location": {
+      "type": "Point",
+      "coordinates": [-97.7431, 30.2672]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-14T12:00:00.000Z",
+    "updatedAt": "2024-01-17T10:45:00.000Z"
+  },
+  {
+    "name": "Bamboo Dinnerware Set",
+    "description": "Elegant bamboo dinnerware sets that are biodegradable and stylish. Perfect for eco-friendly events.",
+    "category": "decor",
+    "price": 22.50,
+    "quantity": 150,
+    "images": ["dinnerware1.jpg", "dinnerware2.jpg"],
+    "address": "123 Eco Street, San Francisco, CA 94102",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.4194, 37.7749]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-16T14:30:00.000Z",
+    "updatedAt": "2024-01-20T11:20:00.000Z"
+  },
+  {
+    "name": "Recycled Glass Vases",
+    "description": "Beautiful vases made from recycled glass. Each piece is unique and environmentally friendly.",
+    "category": "decor",
+    "price": 18.75,
+    "quantity": 80,
+    "images": ["vases1.jpg", "vases2.jpg"],
+    "address": "456 Green Avenue, Los Angeles, CA 90210",
+    "location": {
+      "type": "Point",
+      "coordinates": [-118.2437, 34.0522]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-11T16:45:00.000Z",
+    "updatedAt": "2024-01-19T09:30:00.000Z"
+  },
+  {
+    "name": "Hemp Table Runners",
+    "description": "Durable and sustainable hemp table runners in various natural colors. Perfect for rustic or bohemian themes.",
+    "category": "attire",
+    "price": 16.99,
+    "quantity": 60,
+    "images": ["runners1.jpg", "runners2.jpg"],
+    "address": "789 Nature Lane, Portland, OR 97201",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.6765, 45.5152]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-13T13:20:00.000Z",
+    "updatedAt": "2024-01-18T15:45:00.000Z"
+  },
+  {
+    "name": "Solar-Powered Lanterns",
+    "description": "Charming solar-powered lanterns perfect for outdoor evening events. No electricity required.",
+    "category": "lighting",
+    "price": 32.00,
+    "quantity": 40,
+    "images": ["lanterns1.jpg", "lanterns2.jpg"],
+    "address": "321 Solar Street, Seattle, WA 98101",
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.3321, 47.6062]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-17T10:15:00.000Z",
+    "updatedAt": "2024-01-20T13:00:00.000Z"
+  },
+  {
+    "name": "Wildflower Seed Favors",
+    "description": "Small packets of wildflower seeds as eco-friendly wedding favors. Guests can plant them at home.",
+    "category": "other",
+    "price": 3.50,
+    "quantity": 300,
+    "images": ["seeds1.jpg", "seeds2.jpg"],
+    "address": "654 Organic Way, Austin, TX 78701",
+    "location": {
+      "type": "Point",
+      "coordinates": [-97.7431, 30.2672]
+    },
+    "vendor": "68cf047ae4ec3df8f5a98145",
+    "isActive": true,
+    "createdAt": "2024-01-19T12:30:00.000Z",
+    "updatedAt": "2024-01-20T16:15:00.000Z"
+  }
+]

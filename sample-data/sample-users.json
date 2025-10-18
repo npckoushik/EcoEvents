@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Green Events Co.",
+    "email": "contact@greenevents.com",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0101",
+    "address": "123 Eco Street, San Francisco, CA 94102",
+    "roles": ["vendor"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.4194, 37.7749]
+    },
+    "donationScore": 1250,
+    "isActive": true,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-20T14:45:00.000Z"
+  },
+  {
+    "name": "Sustainable Decor Solutions",
+    "email": "info@sustainabledecor.com",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0102",
+    "address": "456 Green Avenue, Los Angeles, CA 90210",
+    "roles": ["vendor"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-118.2437, 34.0522]
+    },
+    "donationScore": 980,
+    "isActive": true,
+    "createdAt": "2024-01-10T09:15:00.000Z",
+    "updatedAt": "2024-01-18T16:20:00.000Z"
+  },
+  {
+    "name": "EcoFlower Gardens",
+    "email": "hello@ecoflowers.com",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0103",
+    "address": "789 Nature Lane, Portland, OR 97201",
+    "roles": ["vendor"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.6765, 45.5152]
+    },
+    "donationScore": 750,
+    "isActive": true,
+    "createdAt": "2024-01-08T11:45:00.000Z",
+    "updatedAt": "2024-01-16T13:30:00.000Z"
+  },
+  {
+    "name": "Green Lighting Co.",
+    "email": "sales@greenlighting.com",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0104",
+    "address": "321 Solar Street, Seattle, WA 98101",
+    "roles": ["vendor"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-122.3321, 47.6062]
+    },
+    "donationScore": 1100,
+    "isActive": true,
+    "createdAt": "2024-01-12T08:20:00.000Z",
+    "updatedAt": "2024-01-19T15:10:00.000Z"
+  },
+  {
+    "name": "EcoCatering Solutions",
+    "email": "orders@ecocatering.com",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0105",
+    "address": "654 Organic Way, Austin, TX 78701",
+    "roles": ["vendor"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-97.7431, 30.2672]
+    },
+    "donationScore": 850,
+    "isActive": true,
+    "createdAt": "2024-01-14T12:00:00.000Z",
+    "updatedAt": "2024-01-17T10:45:00.000Z"
+  },
+  {
+    "name": "Hope Foundation",
+    "email": "contact@hopefoundation.org",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0201",
+    "address": "100 Charity Drive, New York, NY 10001",
+    "roles": ["ngo"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-74.0060, 40.7128]
+    },
+    "donationScore": 0,
+    "isActive": true,
+    "createdAt": "2024-01-05T14:30:00.000Z",
+    "updatedAt": "2024-01-20T09:15:00.000Z"
+  },
+  {
+    "name": "Green Earth Initiative",
+    "email": "info@greenearth.org",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0202",
+    "address": "200 Environmental Blvd, Chicago, IL 60601",
+    "roles": ["ngo"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-87.6298, 41.8781]
+    },
+    "donationScore": 0,
+    "isActive": true,
+    "createdAt": "2024-01-07T16:45:00.000Z",
+    "updatedAt": "2024-01-18T11:30:00.000Z"
+  },
+  {
+    "name": "Community Care Network",
+    "email": "help@communitycare.org",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0203",
+    "address": "300 Support Street, Miami, FL 33101",
+    "roles": ["ngo"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-80.1918, 25.7617]
+    },
+    "donationScore": 0,
+    "isActive": true,
+    "createdAt": "2024-01-09T13:20:00.000Z",
+    "updatedAt": "2024-01-19T14:00:00.000Z"
+  },
+  {
+    "name": "Eco Warriors",
+    "email": "team@ecowarriors.org",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0204",
+    "address": "400 Conservation Lane, Denver, CO 80201",
+    "roles": ["ngo"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-104.9903, 39.7392]
+    },
+    "donationScore": 0,
+    "isActive": true,
+    "createdAt": "2024-01-11T10:15:00.000Z",
+    "updatedAt": "2024-01-17T16:45:00.000Z"
+  },
+  {
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0301",
+    "address": "500 Customer Street, Boston, MA 02101",
+    "roles": ["customer"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-71.0589, 42.3601]
+    },
+    "donationScore": 0,
+    "isActive": true,
+    "createdAt": "2024-01-13T15:30:00.000Z",
+    "updatedAt": "2024-01-20T12:00:00.000Z"
+  },
+  {
+    "name": "Mike Chen",
+    "email": "mike.chen@email.com",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0302",
+    "address": "600 Event Avenue, Phoenix, AZ 85001",
+    "roles": ["customer"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-112.0740, 33.4484]
+    },
+    "donationScore": 0,
+    "isActive": true,
+    "createdAt": "2024-01-16T09:45:00.000Z",
+    "updatedAt": "2024-01-19T17:30:00.000Z"
+  },
+  {
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@email.com",
+    "password": "$2b$10$rQZ8K9mN2pL3sT4uV5wX6yA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU7vW8xY9zA",
+    "phone": "+1-555-0303",
+    "address": "700 Wedding Way, Nashville, TN 37201",
+    "roles": ["customer"],
+    "location": {
+      "type": "Point",
+      "coordinates": [-86.7816, 36.1627]
+    },
+    "donationScore": 0,
+    "isActive": true,
+    "createdAt": "2024-01-18T11:20:00.000Z",
+    "updatedAt": "2024-01-20T08:15:00.000Z"
+  }
+]
